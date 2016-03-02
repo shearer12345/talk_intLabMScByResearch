@@ -1,0 +1,9 @@
+= test3 file
+shearer12345
+
+front matter stuff 3 that is run
+
+== heading 3
+
+image::Test_card.png[]
+stuff things 3
