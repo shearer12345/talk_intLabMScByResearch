@@ -7,6 +7,8 @@ buildscript {
 }
 
 plugins {
+	id 'org.ajoberstar.github-pages' version '1.4.2'
+	id 'org.asciidoctor.gradle.asciidoctor' version '1.5.1'
 	id 'org.asciidoctor.convert' version '1.5.2'
 	id 'com.github.jruby-gradle.base' version '0.1.5'
 }
@@ -15,6 +17,19 @@ apply plugin: 'com.github.jruby-gradle.base'
 apply plugin: 'org.ysb33r.vfs'
 apply plugin: 'java'
 apply plugin: 'org.asciidoctor.convert'
+
+githubPages {
+  repoUri = 'https://github.com/shearer12345/talk_intLabMScByResearch.git' // Set this to the destination repo
+
+  credentials {
+    username = project.hasProperty('githubToken') ? project.githubToken : ''
+    password = ''
+  }
+
+  pages {
+    from file(asciidoctor.outputDir.path + '/html5')
+  }
+}
 
 version = '1.0.0-SNAPSHOT'
 
@@ -89,3 +104,5 @@ asciidoctor {
 
 	dependsOn download
 }
+
+publishGhPages.dependsOn asciidoctor
