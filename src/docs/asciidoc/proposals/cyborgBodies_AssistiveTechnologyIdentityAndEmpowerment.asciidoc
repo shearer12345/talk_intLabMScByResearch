@@ -1,0 +1,15 @@
+== Cyborg Bodies – Assistive Technology, Identity, and Empowerment
+
+* Kathrin Gerling
+
+=== Summary
+
+Computer Science, Engineering, and other disciplines are producing a wealth of assistive technology to support people with disabilities. While many tools are powerful tools that can support people with disabilities, they rarely ask questions around the empowerment of users through an augmentation of their abilities. However, with technology getting more powerful – for example, systems such as Google Glass that could provide a wealth of real-time information – paradigms could shift to an attempt of extending abilities beyond those of non-disabled individuals.
+
+=== Aims
+
+This MSc project aims to explore perspectives that people with disabilities have on existing assistive technologies, around the augmentation of abilities, and their identities. It is expected to involve a strong qualitative component in which user feedback is solicited, and will employ invisible design to envision a new generation of augmenting rather than assistive technologies.
+
+=== Skills
+
+Interested students should have excellent interpersonal skills, and be familiar with prototyping techniques and qualitative research.

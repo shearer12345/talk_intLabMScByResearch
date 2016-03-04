@@ -1,0 +1,18 @@
+== Voxel Ninja
+
+* Duncan Rowland
+* John Shearer
+
+image::CTSkullImage.png[]
+
+=== Summary
+
+Volume rendering is a set of computer graphic techniques used to display a 3D discretely sampled data set. Just as pixels (picture elements) are use to represent the atomic elements of an image in 2D graphics, voxels (volume elements) serve a similar purpose in volume rendering, represent data­points that have a volume. The techniques allow large datasets to be interactively examined and this has a wide variety of applications in the real­world. For more details please see: https://en.wikipedia.org/wiki/Volume_rendering
+
+=== Aims
+
+This M.Sc. project will explore the implementation of volume rendering within an emerging virtual reality context. The goal will be to produce an immersive experience that allows volumetric data to be visualized and interacted with on a vive headset (or similar device as appropriate). Think 'fruit ninja' but using volumes that can be sliced through at arbitrary angles to reveal their inner structure.
+
+=== Skills
+
+Interested students should be confident in the core concepts of 3D graphics and the use of development tools at both high and low levels (e.g. Unity/Unreal Engine, C/C++, OpenGL and shaders).

@@ -1,0 +1,17 @@
+== Magnetism For A Physics Engine
+
+* John Shearer
+
+image::320px-VFPt_cylindrical_magnet_thumb.svg.png[]
+
+=== Summary
+
+TODO
+
+=== Aims
+
+TODO
+
+=== Skills
+
+TODO

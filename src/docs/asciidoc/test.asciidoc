@@ -1,8 +1,0 @@
-= test file
-shearer12345
-
-front matter stuff
-
-== heading
-
-stuff things

@@ -1,0 +1,18 @@
+== Exploring Death Through Embodied Playful Interaction
+
+* Kathrin Gerling
+* Patrick Dickinson
+* Ben Kirman???
+* ???
+
+=== Summary
+
+Open conversations around death rarely take place in Western societies, and particularly young adults are usually unconcerned with considerations around the end of life. However, discussions around death can be important, for example in case of medical emergency, or the unfortunate event of loss of a loved one where knowledge of their individual preferences around their end of life can be a great support, and enable family members to respect their wishes.
+
+=== Aims
+
+This MSc project aims to explore the potential of embodied, coffin-based interaction to foster conversations around death among young adults. It is expected to involve the user-centred design and implementation of a playful artefact and a qualitative evaluation to gain insights into the potential of playful interventions to foster conversations around the end of life.
+
+=== Skills
+
+Interested students should be competent in Unity, and have a basic understanding of the Human-Computer Interaction research process.

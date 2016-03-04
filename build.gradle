@@ -83,7 +83,7 @@ asciidoctor {
 		}
 	}
 
-    backends 'html5', 'pdf', 'revealjs'
+    backends 'html5', 'pdf'//, 'revealjs'
     attributes	'build-gradle': file('build.gradle'),
 				'sourcedir': project.sourceSets.main.java.srcDirs[0],
 				'endpoint-url': 'http://example.org',

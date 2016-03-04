@@ -1,0 +1,119 @@
+= intLab MSc by Research
+
+== What we Offer
+
+* Really interesting work
+* A positive research community
+* Opportunities for collaboration
+* Access to equipment
+* Research methods training workshops
+* Research seminars
+* Conference attendance for published work
+  ** e.g. CHI-play / Kieran
+  ** possibly international
+* Demonstrating
+  ** teaching experience
+  ** money
+
+
+
+== What we Except
+
+* Core hours (10:00-16:00)
+* A full working week (37.5 hours)
+* Engage with the intLab community
+  ** presentation to Level 3 students
+  ** intLab seminars
+  ** sharing results
+  ** discussing with each other
+  ** reading and writing group
+  ** helping each other (technically and otherwise)
+* Open/Applicants days
+
+=== Benefits to you
+
+* Mainly contingent on your commitment to the programme
+* Potential increased employability
+
+* Research experience, valuable for applying to PhD programmes
+* Teaching experience
+* A chance to do a cool project
+
+
+== Selection Criteria
+
+* Strong background/track record of appropriate capabilities
+* Evidence of good engagement with your programme
+* Ability to work/learn autonomously
+* University has a 2:2 entry minimum
+
+== Process
+
+* Select a proposal from the list (custom proposals not accepted)
+* Develop a more detailed proposal from this, according to the template (TODO)
+* Email the proposal to ??? (TODO)
+* intLab will run a monthly review (on merit)
+  ** next review is March 23rd 2016, so email by 23:59 on March 22nd 2016
+  ** if accepted by intLab, do the University application process
+    *** linked from http://www.lincoln.ac.uk/home/course/cmsresms/
+
+== Finance
+
+* intLab is *NOT* funding these positions, but we'd love to have you
+* UK Government has announced a post-graduate loan system for students to start in 2016
+* You *can* fund yourself
+
+=== Fees
+
+* MSc Computer Science By Research - 2016/17 Entry
+* UK/EU = £4,500
+* 20% discount for alumni (UK/EU) => £3,600
+  ** http://www.lincoln.ac.uk/home/studyatlincoln/scholarships/alumnischolarshipforpostgraduatestudy/
+
+=== Postgraduate Loans
+
+* Unofficial summary of some of the requirements (final regulations are pending)
+  ** https://www.lincoln.ac.uk/home/studyatlincoln/postgraduateprogrammes/feesandfunding/postgraduateloans/
+* Borrow up to £10,000 for a postgraduate Masters qualification
+  ** MSc by Research is included
+* Individuals must have been resident in the UK for at least three years prior to the beginning of the course
+  ** EU students are eligible for the scheme
+* Not open to students already holding an MComp qualification
+
+=== Demonstrating
+
+* You will be expected to demonstrate on a variety of modules
+  ** £14.42/hr (2015-16) for taught module workshops
+
+
+== Proposals
+
+* Template at ???TODO
+* Custom proposals ???
+
+<<<
+
+include::proposals/developingCreativeInterfacesForVirtualRealityEnvironments.asciidoc[]
+
+<<<
+
+include::proposals/crowdSimulationInVirtualRealitySpaces.asciidoc[]
+
+
+<<<
+
+include::proposals/exploringDeathThroughEmbodiedPlayfulInteraction.asciidoc[]
+
+
+<<<
+
+include::proposals/cyborgBodies_AssistiveTechnologyIdentityAndEmpowerment.asciidoc[]
+
+<<<
+
+include::proposals/voxelNinja.asciidoc[]
+
+
+<<<
+
+include::proposals/magnetismForAPhysicsEngine.asciidoc[]

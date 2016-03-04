@@ -1,0 +1,18 @@
+== Crowd Simulation in Virtual Reality Spaces
+
+* Patrick Dickinson
+* John Shearer
+
+image::HTC_Vive.jpg[]
+
+=== Summary
+
+Crowd behaviour is studied extensively by psychologists, and also by computer scientists who wish to understand the movements and interactions of large groups of people in buildings and public spaces. Crowd simulations are a useful predictive tool, and many current systems use agent-based models, where each agent is controlled by relatively simple rules about how it interacts with its immediate neighbours.
+
+=== Aims
+
+This project will create a hybrid model of crowd simulation, which places a human participant into an interactive large-scale agent-based simulation using a virtual reality interface. We will investigate how direct interactions with agents can be used to manipulate real-time simulations, and how this can be used to create simulation scenarios which cannot be generated using procedural programming methods alone.
+
+=== Skills
+
+Interested students should have good programming skills, experience of the Unity game engine, and some understanding of research methods.
