@@ -1,4 +1,4 @@
-== Accelerometer As A Control Mechanic
+== Accelerometer as a Control Mechanic
 
 * John Shearer
 

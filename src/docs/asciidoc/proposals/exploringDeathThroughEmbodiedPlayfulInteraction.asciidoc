@@ -2,8 +2,7 @@
 
 * Kathrin Gerling
 * Patrick Dickinson
-* Ben Kirman???
-* ???
+* Ben Kirman
 
 === Summary
 

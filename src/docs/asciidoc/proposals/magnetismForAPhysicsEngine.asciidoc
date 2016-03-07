@@ -1,6 +1,7 @@
 == Magnetism For A Physics Engine
 
 * John Shearer
+* Patrick Dickinson
 
 image::320px-VFPt_cylindrical_magnet_thumb.svg.png[height=400]
 

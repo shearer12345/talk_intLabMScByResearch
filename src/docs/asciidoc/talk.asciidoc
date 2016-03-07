@@ -20,7 +20,7 @@
 
 
 
-== What we Except
+== What we Expect
 
 * Engage with the intLab community
   ** discussing with each other
@@ -29,7 +29,7 @@
   ** reading and writing group
   ** helping each other (technically and otherwise)
 
-=== What we Except 2
+=== What we Expect 2
 
 * Core hours (10:00-16:00)
 * A full working week (37.5 hours)
@@ -37,14 +37,15 @@
 * Presentation to Level 3 students
 
 
-== Benefits to you
+== Benefits to you of a successful MSc
 
-* Mainly contingent on your commitment to the programme
-  ** MSc Computer Science By Research
-  ** Potential increased employability
-  ** Research experience, valuable for applying to PhD programmes
-  ** Teaching experience
-  ** A chance to do a cool project
+* MSc Computer Science By Research
+* Increased employability
+* Research experience, valuable for applying to PhD programmes
+* Teaching experience
+* A cool project
+* Evidence of ability to work independently
+* Useful network of people
 
 
 == Selection Criteria
@@ -54,15 +55,22 @@
 * Ability to work/learn autonomously
 * University has a 2:2 entry minimum
 
-== Process
+== Process 1 - Apply
 
 * Select a proposal from the list
 * Develop a more detailed proposal, according to the template (TODO)
 * Email the proposal to John Shearer (jshearer@lincoln.ac.uk)
+  ** with a subject of "intLab MSc by Research"
+
+
+=== Process 2 - Selection
+
 * intLab will run a monthly review (on merit)
   ** next review is March 23rd 2016, so email by 23:59 on March 22nd 2016
   ** if accepted by intLab, do the University application process
     *** linked from http://www.lincoln.ac.uk/home/course/cmsresms/
+* intLab will then interview appropriate applicants
+
 
 == Finance
 
@@ -93,7 +101,10 @@
 == Proposals
 
 * Template at ???TODO
-* Custom proposals ???
+* Custom proposals
+  ** must have a thorough, clear research question
+  ** good supporting literature
+
 
 <<<
 
@@ -105,12 +116,7 @@ include::proposals/crowdSimulationInVirtualRealitySpaces.asciidoc[]
 
 <<<
 
-include::proposals/cyborgBodies_AssistiveTechnologyIdentityAndEmpowerment.asciidoc[]
-
-<<<
-
 include::proposals/developingCreativeInterfacesForVirtualRealityEnvironments.asciidoc[]
-
 
 <<<
 

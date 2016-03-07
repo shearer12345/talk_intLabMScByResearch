@@ -11,7 +11,7 @@ Volume rendering is a set of computer graphic techniques used to display a 3D di
 
 === Aims
 
-This M.Sc. project will explore the implementation of volume rendering within an emerging virtual reality context. The goal will be to produce an immersive experience that allows volumetric data to be visualized and interacted with on a vive headset (or similar device as appropriate). Think 'fruit ninja' but using volumes that can be sliced through at arbitrary angles to reveal their inner structure.
+This MSc project will explore the implementation of volume rendering within an emerging virtual reality context. The goal will be to produce an immersive experience that allows volumetric data to be visualized and interacted with on a vive headset (or similar device as appropriate). Think 'fruit ninja' but using volumes that can be sliced through at arbitrary angles to reveal their inner structure.
 
 === Skills
 
