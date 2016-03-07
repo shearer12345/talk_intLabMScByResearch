@@ -8,6 +8,9 @@
 * Access to equipment
 * Research methods training workshops
 * Research seminars
+
+=== What we Offer 2
+
 * Conference attendance for published work
   ** e.g. CHI-play / Kieran
   ** possibly international
@@ -19,25 +22,29 @@
 
 == What we Except
 
-* Core hours (10:00-16:00)
-* A full working week (37.5 hours)
 * Engage with the intLab community
-  ** presentation to Level 3 students
-  ** intLab seminars
-  ** sharing results
   ** discussing with each other
+  ** sharing results
+  ** intLab seminars
   ** reading and writing group
   ** helping each other (technically and otherwise)
-* Open/Applicants days
 
-=== Benefits to you
+=== What we Except 2
+
+* Core hours (10:00-16:00)
+* A full working week (37.5 hours)
+* Open/Applicants days
+* Presentation to Level 3 students
+
+
+== Benefits to you
 
 * Mainly contingent on your commitment to the programme
-* MSc Computer Science By Research
-* Potential increased employability
-* Research experience, valuable for applying to PhD programmes
-* Teaching experience
-* A chance to do a cool project
+  ** MSc Computer Science By Research
+  ** Potential increased employability
+  ** Research experience, valuable for applying to PhD programmes
+  ** Teaching experience
+  ** A chance to do a cool project
 
 
 == Selection Criteria
@@ -49,9 +56,9 @@
 
 == Process
 
-* Select a proposal from the list (custom proposals not accepted)
-* Develop a more detailed proposal from this, according to the template (TODO)
-* Email the proposal to ??? (TODO)
+* Select a proposal from the list
+* Develop a more detailed proposal, according to the template (TODO)
+* Email the proposal to John Shearer (jshearer@lincoln.ac.uk)
 * intLab will run a monthly review (on merit)
   ** next review is March 23rd 2016, so email by 23:59 on March 22nd 2016
   ** if accepted by intLab, do the University application process
@@ -61,7 +68,7 @@
 
 * intLab is *NOT* funding these positions, but we'd love to have you
 * UK Government has announced a post-graduate loan system for students to start in 2016
-* You *can* fund yourself
+* You *can* also fund yourself
 
 === Fees
 
@@ -72,19 +79,16 @@
 
 === Postgraduate Loans
 
-* Unofficial summary of some of the requirements (final regulations are pending)
+* Unofficial summary of some of the requirements
   ** https://www.lincoln.ac.uk/home/studyatlincoln/postgraduateprogrammes/feesandfunding/postgraduateloans/
-* Borrow up to £10,000 for a postgraduate Masters qualification
-  ** MSc by Research is included
-* Individuals must have been resident in the UK for at least three years prior to the beginning of the course
-  ** EU students are eligible for the scheme
+* Borrow up to £10,000 for a postgraduate Masters qualification (MSc by Research is included)
+* Individuals (including EU students) must have been resident in the UK for at least 3 years prior
 * Not open to students already holding an MComp qualification
 
 === Demonstrating
 
 * You will be expected to demonstrate on a variety of modules
   ** £14.42/hr (2015-16) for taught module workshops
-
 
 == Proposals
 
@@ -93,17 +97,11 @@
 
 <<<
 
-include::proposals/developingCreativeInterfacesForVirtualRealityEnvironments.asciidoc[]
+include::proposals/accelerometerAsAControlMechanic.asciidoc[]
 
 <<<
 
 include::proposals/crowdSimulationInVirtualRealitySpaces.asciidoc[]
-
-
-<<<
-
-include::proposals/exploringDeathThroughEmbodiedPlayfulInteraction.asciidoc[]
-
 
 <<<
 
@@ -111,13 +109,12 @@ include::proposals/cyborgBodies_AssistiveTechnologyIdentityAndEmpowerment.asciid
 
 <<<
 
-include::proposals/voxelNinja.asciidoc[]
+include::proposals/developingCreativeInterfacesForVirtualRealityEnvironments.asciidoc[]
 
 
 <<<
 
-include::proposals/magnetismForAPhysicsEngine.asciidoc[]
-
+include::proposals/exploringDeathThroughEmbodiedPlayfulInteraction.asciidoc[]
 
 <<<
 
@@ -126,4 +123,8 @@ include::proposals/harryPotterEskPortraits.asciidoc[]
 
 <<<
 
-include::proposals/accelerometerAsAControlMechanic.asciidoc[]
+include::proposals/magnetismForAPhysicsEngine.asciidoc[]
+
+<<<
+
+include::proposals/voxelNinja.asciidoc[]

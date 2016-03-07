@@ -2,7 +2,7 @@
 
 * John Shearer
 
-image::accelerometer.jpg[]
+image::accelerometer.jpg[height=400]
 
 === Summary
 

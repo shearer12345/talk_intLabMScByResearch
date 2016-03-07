@@ -3,7 +3,7 @@
 * Patrick Dickinson
 * John Shearer
 
-image::HTC_Vive.jpg[]
+image::HTC_Vive.jpg[height=400]
 
 === Summary
 

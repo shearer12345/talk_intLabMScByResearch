@@ -3,6 +3,8 @@
 * Patrick Dickinson
 * Duncan Rowland
 
+image::HTC_Vive.jpg[height=400]
+
 === Summary
 
 Newly emerging VR interfaces, such as the HTC Vive, have enabled the creation of digital spaces which mirror the physical world: users can walk, move, and interact with virtual artefacts using naturalistic body movements. This MSc project will explore the development of such spaces to support and explore the process of art creation, using crafting interfaces which are inspired by traditional techniques used in the physical world.

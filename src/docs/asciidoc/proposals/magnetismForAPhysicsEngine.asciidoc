@@ -2,7 +2,7 @@
 
 * John Shearer
 
-image::320px-VFPt_cylindrical_magnet_thumb.svg.png[]
+image::320px-VFPt_cylindrical_magnet_thumb.svg.png[height=400]
 
 === Summary
 

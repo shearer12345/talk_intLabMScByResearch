@@ -2,7 +2,7 @@
 
 * John Shearer
 
-image::harryPotterPortrait.gif[]
+image::harryPotterPortrait.gif[height=400]
 
 === Summary
 

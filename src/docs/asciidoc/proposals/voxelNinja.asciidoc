@@ -3,7 +3,7 @@
 * Duncan Rowland
 * John Shearer
 
-image::CTSkullImage.png[]
+image::CTSkullImage.png[height=400]
 
 === Summary
 
