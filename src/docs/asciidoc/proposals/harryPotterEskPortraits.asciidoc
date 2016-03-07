@@ -1,0 +1,17 @@
+== Harry Potter-esk portraits
+
+* John Shearer
+
+image::harryPotterPortrait.gif[]
+
+=== Summary
+
+The School of Computer Science is growing and it is difficult to know who are all the staff are; what they look like; what they do both teaching-wise and research-wise. Dynamic portraits, such as those found in Harry Potter (http://harrypotter.wikia.com/wiki/Portrait  https://youtu.be/3-bXjK_5C8g?t=10), may be more valuable/engaging/interesting than static posters. Adding interactivity, curation-tools, and other features would enhance these further.
+
+=== Aims
+
+This MSc project will develop software to display Harry Potter-esk portraits - composited video of staff on top of background scenes - across multiple screens, with appropriate continuity between them. It will also explore how people experience these screens - from various perspectives.
+
+=== Skills
+
+Some familiarity with video or willingness to learn - part of the project will be generating the (green-screened) footage. Appropriate software development skills to build a real-time video compositor (or leverage an existing library). This could be platform specific, or more powerfully web-based. Capabilities to physical build and deploy the portrait screens would also be needed (or willingness to learn).

@@ -33,8 +33,8 @@
 === Benefits to you
 
 * Mainly contingent on your commitment to the programme
+* MSc Computer Science By Research
 * Potential increased employability
-
 * Research experience, valuable for applying to PhD programmes
 * Teaching experience
 * A chance to do a cool project
@@ -117,3 +117,8 @@ include::proposals/voxelNinja.asciidoc[]
 <<<
 
 include::proposals/magnetismForAPhysicsEngine.asciidoc[]
+
+
+<<<
+
+include::proposals/harryPotterEskPortraits.asciidoc[]

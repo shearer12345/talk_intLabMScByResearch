@@ -6,12 +6,13 @@ image::320px-VFPt_cylindrical_magnet_thumb.svg.png[]
 
 === Summary
 
-TODO
+None of the major physics engines available implement an magnetism simulation. One can imagine a myriad of interesting game mechanics that could be afforded by a game engine with some magnetism simulation.
 
 === Aims
 
-TODO
+This MSc project will add magnetism simulation to an open source physics engine (e.g. bullet, box2d). The project will be developed in the open and released as open source. It will aim to initially implement simple magnetism in 2D, then move towards more complex models.
+
 
 === Skills
 
-TODO
+Interested students should have good {cpp} programming skills and good understanding of the basic physics of magnetism (or willingness and capability to learn). They should also of an "open" mindset and want to contribute to and engage with the open source community.
