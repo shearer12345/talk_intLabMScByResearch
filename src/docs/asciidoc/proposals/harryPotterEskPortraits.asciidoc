@@ -14,4 +14,4 @@ This MSc project will develop software to display Harry Potter-esk portraits - c
 
 === Skills
 
-Some familiarity with video or willingness to learn - part of the project will be generating the (green-screened) footage. Appropriate software development skills to build a real-time video compositor (or leverage an existing library). This could be platform specific, or more powerfully web-based. Capabilities to physical build and deploy the portrait screens would also be needed (or willingness to learn).
+Interested students should have some familiarity with video or willingness to learn - part of the project will be generating the (green-screened) footage. Appropriate software development skills to build a real-time video compositor (or leverage an existing library). This could be platform specific, or more powerfully/scalably, web-based. Capabilities to physically build and deploy the portrait screens would also be valuable (or willingness to learn).

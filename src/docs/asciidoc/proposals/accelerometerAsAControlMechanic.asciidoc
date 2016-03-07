@@ -1,0 +1,17 @@
+== Accelerometer As A Control Mechanic
+
+* John Shearer
+
+image::accelerometer.jpg[]
+
+=== Summary
+
+The ubiquity of accelerometers in mobile devices allows for a variety of new interaction mechanics that can be leveraged for games. Many real-world activities have unique acceleration patterns that cannot (easily) be generated without doing those activities. For example, the acceleration pattern of "going up 3 floors in an elevator". There has been a variety of work in recognising accelerometer patterns for activity recognition, but there is an interesting possibility to apply this to games - with these unique real-world patterns allowing in-game mechanics that can only be accessed through real-world activities. Perhaps, your in-game player can only go up 3 floors in an elevator if the real-world player goes up 3 floors in an elevator.
+
+=== Aims
+
+This MSc project will explore how accelerometer patterns can be leveraged for game mechanics. It will develop and evaluate a series of simple games, where players must take real-world actions to allow in-game actions. It will also explore how specific real-world activities can be trained into game (during development).
+
+=== Skills
+
+Interested students should be have familiarity with building games (good programming skills), especially for mobile platforms, and the willingness to learn about processing accelerometer data to recognise activities - both activities that are simple to define/recognise (such a going up 3 floors in an elevator) and more subtle ones (such as walking, running) that may need more sophisticated techniques.

@@ -122,3 +122,8 @@ include::proposals/magnetismForAPhysicsEngine.asciidoc[]
 <<<
 
 include::proposals/harryPotterEskPortraits.asciidoc[]
+
+
+<<<
+
+include::proposals/accelerometerAsAControlMechanic.asciidoc[]
