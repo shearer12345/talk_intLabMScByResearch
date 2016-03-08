@@ -58,7 +58,7 @@
 == Process 1 - Apply
 
 * Select a proposal from the list
-* Develop a more detailed proposal, according to the template (TODO)
+* Develop a more detailed proposal, according to the template (on Blackboard for this lecture)
 * Email the proposal to John Shearer (jshearer@lincoln.ac.uk)
   ** with a subject of "intLab MSc by Research"
 
@@ -100,7 +100,7 @@
 
 == Proposals
 
-* Template at ???TODO
+* Template on Blackboard for today's lecture
 * Custom proposals
   ** must have a thorough, clear research question
   ** good supporting literature
