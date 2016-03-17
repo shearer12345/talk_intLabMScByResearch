@@ -67,9 +67,9 @@
 
 * intLab will run a monthly review (on merit)
   ** next review is March 23rd 2016, so email by 23:59 on March 22nd 2016
-  ** if accepted by intLab, do the University application process
-    *** linked from http://www.lincoln.ac.uk/home/course/cmsresms/
 * intLab will then interview appropriate applicants
+* if accepted by intLab, do the University application process
+  ** linked from http://www.lincoln.ac.uk/home/course/cmsresms/
 
 
 == Finance
